@@ -1,5 +1,3 @@
-(use-package racket-mode
-  :defer t
-  :ensure t)
+(use-package racket-mode)
 
 (provide 'init-racket)

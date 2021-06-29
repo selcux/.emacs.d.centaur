@@ -167,6 +167,8 @@ decrease this. If you experience stuttering, increase this.")
 (require 'init-elixir)
 (require 'init-web)
 (require 'init-fsharp)
+(require 'init-racket)
+(require 'init-ocaml)
 
 (global-wakatime-mode)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
