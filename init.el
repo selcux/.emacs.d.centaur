@@ -154,6 +154,7 @@
 (require 'init-racket)
 (require 'init-ocaml)
 (require 'init-v)
+(require 'init-nim)
 
 (global-wakatime-mode)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
