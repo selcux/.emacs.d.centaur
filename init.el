@@ -155,6 +155,7 @@
 (require 'init-ocaml)
 (require 'init-v)
 (require 'init-nim)
+(require 'init-clojure)
 
 (global-wakatime-mode)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
